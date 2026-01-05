@@ -6,10 +6,12 @@ FAKENIX is a cybersecurity project focused on identifying manipulated digital co
 - Security-focused project structure
 - Educational and demo-ready
 
-## 🛠 Tech Stack
-- HTML
-- CSS
-- JavaScript
+Tech Stack
+- Python
+- TensorFlow / PyTorch
+- OpenCV
+- NumPy, Pandas
+- Jupyter Notebooks
 
 ## 🌐 Live Demo
 https://username.github.io/FAKENIX/
