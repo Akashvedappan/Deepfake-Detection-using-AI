@@ -1,11 +1,6 @@
 # Deepfake-Detection-using-AI
 FAKENIX is a cybersecurity project focused on identifying manipulated digital content, promoting cyber awareness, and demonstrating core digital forensics concepts.
 
-
-# FAKENIX 🔐
-
-FAKENIX is a cybersecurity-focused project designed to demonstrate practical concepts related to digital security, awareness, and threat analysis.
-
 ## 🚀 Features
 - Interactive frontend interface
 - Security-focused project structure
