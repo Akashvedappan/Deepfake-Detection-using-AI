@@ -16,9 +16,6 @@ Tech Stack
 ## 🌐 Live Demo
 https://username.github.io/FAKENIX/
 
-## 📌 Use Case
-- Cybersecurity awarenes
-- Portfolio showcase
 
 ## 👨‍💻 Author
 Akash V  
